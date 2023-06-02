@@ -1,5 +1,5 @@
 `timescale 1ns/1ps
-module top(
+module skewed data_gen(
 
 input				sys_clk_p,//200M
 input				sys_clk_n,
